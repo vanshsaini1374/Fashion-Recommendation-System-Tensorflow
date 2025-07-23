@@ -1,4 +1,6 @@
-streamlit
-tensorflow
+streamlit==1.27.0
+tensorflow==2.13.0
 numpy
+pandas
+scikit-learn
 Pillow
