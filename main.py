@@ -60,7 +60,7 @@ html, body, [class*="css"] {
     color: #555;
 }
 
-/* Upload Card */
+/* Upload Card css */
 .stFileUploader > div {
     border: 2px dashed #888;
     border-radius: 15px;
